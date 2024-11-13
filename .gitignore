@@ -1,0 +1,9 @@
+font_family
+fonts
+libs
+slate_conf
+vendor
+x64
+*.vcxproj
+*.filters
+*.user
